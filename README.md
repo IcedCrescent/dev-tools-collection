@@ -11,6 +11,7 @@ Sometimes while using machines that can't download programs or tools that I usua
     - NuGet Provider 2.8.5.208
     - Git 2.30.0.2
     - Fork 1.58
+    - XML Notepad
 3. Vue
     - [Chrome extension](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
     - [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
